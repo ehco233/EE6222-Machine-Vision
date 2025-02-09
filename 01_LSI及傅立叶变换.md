@@ -241,7 +241,7 @@ $$
 可以应用理想低通滤波器恢复原始信号：
 
 $$
-H(f_x,f_y)=\left\{
+H(u,v)=\left\{
 \begin{array}{ll}
 \Delta x\Delta y, & (u,v) \in (-U_0, U_0) \times (-V_0, V_0)\\
 0, & \text{others}
